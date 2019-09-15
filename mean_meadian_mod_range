@@ -1,3 +1,4 @@
 MEAN : Sum of observations / No. Of observations.
 MEDIAN : if observations are odd then the center one is median , LIKE : 3 5 2 7 8 HERE 2 is median. But for observations are even then (n/2 + n/2+1)/2 LIKE : 3 5 4 2 9 1 Take 4 and 2 and 4+2 divide by 2 ---->>>> (4+2)/2 = 3.
 MOD : If any no. is repeat in observation then that no. is mod . if no any no. is repeated then All are modes.
+RANGE : Highest no. - Lowest no.
